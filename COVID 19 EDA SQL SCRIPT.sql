@@ -51,7 +51,7 @@ WHERE location = 'United Kingdom'
 order by 1,2
 -- On 04/22/2020, the highest death percentage was recorded in United Kingdom to the tune of 22.92%
 
--- Top 10 Death_Percentage in United Kingdom
+-- Month with the highest death percentage in United Kingdom.
 SELECT TOP 10
     Location,
     date,
