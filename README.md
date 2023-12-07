@@ -1,5 +1,5 @@
 # Introduction
-I have successfully concluded a comprehensive data cleaning project centered around Nashville Housing data. This project served as a significant assessment of my ability to utilize SQL for the purpose of cleaning raw data, ultimately transforming it into a refined format.
+In this practical exploration of data analysis, my aim is to uncover the latest insights into the impact of COVID-19. The pandemic, spanning nearly every corner of the globe, led to the unfortunate loss of around 6.9 million lives and affected over 698 million people.
 
 # Tool Used
 MS SQL - SQL Server Management Studio
